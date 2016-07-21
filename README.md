@@ -1,2 +1,2 @@
 # AboutMe
-Arbeitsprobe/sample workk
+Arbeitsprobe/sample work
